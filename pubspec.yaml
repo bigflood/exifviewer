@@ -23,6 +23,8 @@ dependencies:
   image_picker: ^0.4.10
   camera: ^0.2.6
   path_provider: any
+  native_device_orientation: ^0.0.3
+  flutter_image_compress: ^0.2.2  
 
 dev_dependencies:
   flutter_test:
